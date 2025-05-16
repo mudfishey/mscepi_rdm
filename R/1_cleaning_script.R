@@ -4,7 +4,8 @@
 # Survey 2019/2020.                                                             # 
 #                                                                               #
 # Author : Sumin Kim                                                           #
-# Date   : Today                                                         #
+# Date   : Today  
+# another change
 #                                                                               # 
 #################################################################################
 
@@ -14,6 +15,7 @@
 
 # Load the tidyverse collection of packages for data manipulation and visualization
 library(tidyverse)
+library (ggplot)
 
 # Load the haven package to read and work with Stata, SPSS, and SAS data files
 library(haven)
