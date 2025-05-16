@@ -1,5 +1,9 @@
 # Research Data Management lecture - 🔄 Version control & 🤝 collaboration using GitHub
 
+# Author: Sumin 
+# Date: Today
+
+
 Welcome! This GitHub repository has been created for **educational purposes** and is set to public visibility so everyone can access and learn from it.
 
 ## Structure
