@@ -3,8 +3,8 @@
 # This script is used to clean the data from the National Malaria Indicator     #
 # Survey 2019/2020.                                                             # 
 #                                                                               #
-# Author : H. Langet                                                            #
-# Date   : 2025-15-05                                                           #
+# Author : Sumin Kim                                                           #
+# Date   : Today                                                         #
 #                                                                               # 
 #################################################################################
 
